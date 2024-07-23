@@ -1,0 +1,78 @@
+name: advanced_ecommerce
+description: "A new Flutter project."
+
+
+publish_to: 'none'
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+
+
+
+
+
+#------------------------ PACKAGES ---------------------------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # utility packages  
+
+  # Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.6
+
+  # State Management
+  get: ^4.6.5
+
+
+  # Product Specific
+
+
+
+  #------------------- Packages ended --------------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+  
+
+  flutter_lints: ^3.0.0
+
+
+
+
+
+flutter:
+  uses-material-design: true
+  
+
+  #-------------------LOCAL ASSETS -----------------------#
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/logos/
+
+
+  #--------------------LOCAL FONTS -----------------------#
+  fonts:
+    - family: Poppins    
