@@ -6,6 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+This project is an advanced flutter ecommerce application which i am building and updating daily.
+Trying to push new updates into the repository daily as and when i proceed
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
