@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class AETextTheme {
-  AETextTheme._();
+class ATextTheme {
+  ATextTheme._(); // for making it private
 
   // LIGHT THEME CLASS
 
